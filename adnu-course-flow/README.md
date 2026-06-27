@@ -1,7 +1,13 @@
+### Requirements:
+```
+node.js
+```
 
 ### Install and run
 
 ```
+open folder
+cd adnu-course-flow (ignore if you're already in said folder.)
 npm install
 npm start
 ```
