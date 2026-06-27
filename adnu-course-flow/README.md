@@ -24,5 +24,6 @@ Open **http://localhost:3000**
 - **View subject info** → click any subject pill → detail panel opens on the right
 - **Prerequisite arrows** → drawn automatically between subjects in the same year view
 - **Cross-year prerequisites** → shown as a `!` badge (hover it to see which subject)
+- **Course or Subject Deletion** → click the `x` symbol beside a course to delete it. Click a subject and click `delete subject` to delete it.
 
 ---
